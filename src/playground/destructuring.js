@@ -40,4 +40,4 @@ const item = ['coffee (hot)', '$2.00', '$2.50', '$3.00']
 
 const [drink, ,medium] = item;
 
-console.log(`a ${drink} costs ${medium}`);
+console.log(`a medium ${drink} costs ${medium}`);
